@@ -1,2 +1,2 @@
 # library-management-system
-using c sem 1 project
+using c lang first semester  project
